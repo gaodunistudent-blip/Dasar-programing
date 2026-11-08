@@ -1,6 +1,6 @@
-package uts; 
 import java.util.Scanner;
-public static void main(String[] args) {
+public class Uts_daspro2 {
+    public static void main(String[] args) {
 Scanner sc = new Scanner(System.in);
 double w,t1,s1,h1,t2,s2,h2,t3,s3,h3;
 double a,b,c,total,avg,target,p;
@@ -69,4 +69,7 @@ System.out.println("Target achieved");
 break;
 default:
 System.out.println("Invalid menu selection");
-} mkasihh ya gal
+}
+sc.close();
+    }
+}
