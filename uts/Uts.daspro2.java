@@ -1,4 +1,4 @@
-package jobsheet5
+package uts; 
 import java.util.Scanner;
 public static void main(String[] args) {
 Scanner sc = new Scanner(System.in);
